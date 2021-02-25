@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="button_start">Get Started</string>
+    <string name="textView_welcome">Find Your Brew</string>
+    <string name="imageView_home">Home Image</string>
+    <string name="editText_search">Search your beer...</string>
+    <string name="textView_brewed">Brewed</string>
+    <string name="textView_to">to</string>
+    <string name="editTextDate_from">mm/yyyy</string>
+    <string name="editTextDate_to">mm/yyyy</string>
+    <string name="switch_highPoint">High-Point Beer?</string>
+    <string name="button_second">Get Started</string>
+    <string name="textView_test">Test</string>
+    <string name="textView_result">We found 0 results.</string>
+    <string name="textView_name">name of beer</string>
+    <string name="textView_description">description of beer</string>
+    <string name="textView_final">final</string>
+</resources>
